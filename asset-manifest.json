@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Iosif-Resume/static/css/main.c74be306.chunk.css",
+    "main.js": "/Iosif-Resume/static/js/main.c70334ef.chunk.js",
+    "main.js.map": "/Iosif-Resume/static/js/main.c70334ef.chunk.js.map",
+    "runtime-main.js": "/Iosif-Resume/static/js/runtime-main.f6c2edd9.js",
+    "runtime-main.js.map": "/Iosif-Resume/static/js/runtime-main.f6c2edd9.js.map",
+    "static/js/2.b750c27c.chunk.js": "/Iosif-Resume/static/js/2.b750c27c.chunk.js",
+    "static/js/2.b750c27c.chunk.js.map": "/Iosif-Resume/static/js/2.b750c27c.chunk.js.map",
+    "static/js/3.602fdc47.chunk.js": "/Iosif-Resume/static/js/3.602fdc47.chunk.js",
+    "static/js/3.602fdc47.chunk.js.map": "/Iosif-Resume/static/js/3.602fdc47.chunk.js.map",
+    "index.html": "/Iosif-Resume/index.html",
+    "static/css/main.c74be306.chunk.css.map": "/Iosif-Resume/static/css/main.c74be306.chunk.css.map",
+    "static/js/2.b750c27c.chunk.js.LICENSE.txt": "/Iosif-Resume/static/js/2.b750c27c.chunk.js.LICENSE.txt",
+    "static/media/IMG_0001.a3af6826.jpg": "/Iosif-Resume/static/media/IMG_0001.a3af6826.jpg",
+    "static/media/IMG_0004.2c93aa3e.jpeg": "/Iosif-Resume/static/media/IMG_0004.2c93aa3e.jpeg",
+    "static/media/IMG_0009.59b34cca.jpeg": "/Iosif-Resume/static/media/IMG_0009.59b34cca.jpeg",
+    "static/media/IMG_0011.885296f3.jpeg": "/Iosif-Resume/static/media/IMG_0011.885296f3.jpeg",
+    "static/media/IMG_0012.688f6c7e.jpeg": "/Iosif-Resume/static/media/IMG_0012.688f6c7e.jpeg",
+    "static/media/github_image.0aa52c97.png": "/Iosif-Resume/static/media/github_image.0aa52c97.png",
+    "static/media/library-website.75ffdf1f.jpeg": "/Iosif-Resume/static/media/library-website.75ffdf1f.jpeg",
+    "static/media/logo.6ce24c58.svg": "/Iosif-Resume/static/media/logo.6ce24c58.svg",
+    "static/media/medieval-game.02251bd5.png": "/Iosif-Resume/static/media/medieval-game.02251bd5.png",
+    "static/media/strapi-backend.a2630890.png": "/Iosif-Resume/static/media/strapi-backend.a2630890.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c2edd9.js",
+    "static/js/2.b750c27c.chunk.js",
+    "static/css/main.c74be306.chunk.css",
+    "static/js/main.c70334ef.chunk.js"
+  ]
+}
