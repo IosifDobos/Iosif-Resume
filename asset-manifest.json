@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Iosif-Resume/static/css/main.c74be306.chunk.css",
-    "main.js": "/Iosif-Resume/static/js/main.c70334ef.chunk.js",
-    "main.js.map": "/Iosif-Resume/static/js/main.c70334ef.chunk.js.map",
+    "main.js": "/Iosif-Resume/static/js/main.da274dc2.chunk.js",
+    "main.js.map": "/Iosif-Resume/static/js/main.da274dc2.chunk.js.map",
     "runtime-main.js": "/Iosif-Resume/static/js/runtime-main.f6c2edd9.js",
     "runtime-main.js.map": "/Iosif-Resume/static/js/runtime-main.f6c2edd9.js.map",
     "static/js/2.b750c27c.chunk.js": "/Iosif-Resume/static/js/2.b750c27c.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.f6c2edd9.js",
     "static/js/2.b750c27c.chunk.js",
     "static/css/main.c74be306.chunk.css",
-    "static/js/main.c70334ef.chunk.js"
+    "static/js/main.da274dc2.chunk.js"
   ]
 }
