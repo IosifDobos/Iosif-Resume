@@ -4,6 +4,8 @@ import { SiAzuredevops } from 'react-icons/si';
 import { HiCode } from 'react-icons/hi';
 
 import profile from '../assets/img/github_image.png';
+import algoAndDt from '../assets/img/logo-data-structures-algorithms.png';
+import devOps from '../assets/img/download.png';
 
 const About = () => {
     return (
@@ -15,12 +17,14 @@ const About = () => {
                 <div className="nine columns main-col">
                     <h2>About Me</h2>
                     <p>
-                        I'm a graduate student at Technological University Dublin with a BSc degree in Computer Science.
-                        I have pursued my internship at Revenue where I have been involved on different
-                        projects working with programming languages such as AngularJS, jQuery, JavaScript as frontend,
-                        Java as backend and Jenkins to test and deploy the applications. I love to learn and explore new technologies
-                        and often amazed by how technology has grown in the recent years.
-                        </p>
+                        <span>
+                            I'm a graduate student at Technological University Dublin with a BSc degree in Computer Science.
+                            I have pursued my internship at Revenue where I have been involved on different
+                            projects working with programming languages such as AngularJS, jQuery, JavaScript as frontend,
+                            Java as backend and Jenkins to test and deploy the applications. I love to learn and explore new technologies
+                            and often amazed by how technology has grown in the recent years.
+                        </span>
+                    </p>
                     <div className="row">
                         <div className="columns contact-details">
                             <h2>Contact Details</h2>
@@ -67,14 +71,16 @@ const About = () => {
                 </div>
                 <div className="four columns">
                     <div className="expertise">
-                        <IoLogoCss3 className="css-logo" size="100" color="green" />
+                        {/* <IoLogoCss3 className="css-logo" size="100" color="green" /> */}
+                        <img width="100" height="100" src={algoAndDt} alt="Algorithm and Data Structures" />
                         <h3 className="white-color">Algorithms & Data Structures</h3>
                         <p>As part of my degree in Computer Science, I have good background over fundamental concepts of DSA.</p>
                     </div>
                 </div>
                 <div className="four columns">
                     <div className="expertise">
-                        <SiAzuredevops className="dev-ops" size="100" color="blue" />
+                        {/* <SiAzuredevops className="dev-ops" size="100" color="blue" /> */}
+                        <img width="100" height="100" src={devOps} alt="Dev Ops" />
                         <h3 className="white-color">Dev Ops</h3>
                         <p>
                             I have pursued my internship at Revenue, being involved in a DevOps team working with tools like Jenkins and Doker.

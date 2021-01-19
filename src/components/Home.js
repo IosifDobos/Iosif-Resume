@@ -29,12 +29,13 @@ const Home = () => {
                 <div className="banner-text">
                     <h1 className="responsive-headline">I'm Iosif B. Dobos.</h1>
                     <h3>
-                        I'm a <span>Dublin</span> based <span>Software Developer</span>. Graduate student at Technological University Dublin
-                            with a degree in Computer Science. I love to build things and discover new technologies.
-                            As part of my degree I have built numerous projects which can be found on Projects section
-                            by clicking on the button bellow or by visiting my GitHub page. Also, for more information about my work experience,
-                            kills and education, click on the Resume button bellow.
-                        </h3>
+                        <span>I'm a Dublin based Software Developer. Graduate student at Technological University Dublin
+                        with a degree in Computer Science. I love to build things and discover new technologies.
+                        As part of my degree I have built numerous projects which can be found on Projects section
+                        by clicking on the button bellow or by visiting my GitHub page. Also, for more information about my work experience,
+                        kills and education, click on the Resume button bellow.
+                        </span>
+                    </h3>
                     <hr />
                     <ul className="social">
                         <li>
@@ -65,11 +66,6 @@ const Home = () => {
                         <li>
                             <a href="https://gitlab.com/IosifDobos" target="_blank" rel="noopener noreferrer">
                                 <AiFillGitlab size="40" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://medium.com/" target="_blank" rel="noopener noreferrer">
-                                <AiFillMediumSquare size="40" />
                             </a>
                         </li>
                     </ul>

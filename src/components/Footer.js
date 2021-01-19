@@ -46,11 +46,6 @@ const Footer = () => {
                                 <AiFillGitlab size="40" />
                             </a>
                         </li>
-                        <li>
-                            <a href="http://medium.com/" target="_blank" rel="noopener noreferrer">
-                                <AiFillMediumSquare size="40" />
-                            </a>
-                        </li>
                     </ul>
 
                     <ul className="copyright">
