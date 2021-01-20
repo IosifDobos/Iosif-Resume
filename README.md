@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Overview of the App
 
-![alt text](https://github.com/IosifDobos/Iosif-Resume/tree/master/src/assets/img/IMG_0016.jpeg)
+![alt text](https://github.com/IosifDobos/Iosif-Resume/blob/master/src/assets/img/IMG_0016.jpeg)
 
 Project can be view at [Iosif-Resume](https://iosifdobos.github.io/Iosif-Resume/)
 
