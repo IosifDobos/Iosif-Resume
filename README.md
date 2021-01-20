@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Resume Website created using React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Overview of the App
+
+![alt text](https://github.com/IosifDobos/Iosif-Resume/tree/master/src/assets/img/IMG_0016.jpeg)
+
+Project can be view at [Iosif-Resume](https://iosifdobos.github.io/Iosif-Resume/)
+
+## Run project locally
+
+To run the project locally follow the steps bellow
 
 ## Available Scripts
 
